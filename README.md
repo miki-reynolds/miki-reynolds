@@ -135,7 +135,7 @@
 <br />
 <p align="center">
  <a href="https://github.com/miki-reynolds/github-readme-stats">
-	 <img alt="Miki's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miki-reynolds&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1c1917&title_color=ff708e&text_color=ffffff&icon_color=ff708e&hide=Jupyter%20Notebook" height="180px" width="450px" />
+	 <img alt="Miki's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miki-reynolds&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1c1917&title_color=ff708e&text_color=ffffff&icon_color=ff708e&hide=Jupyter%20Notebook" height="185" />
  </a>
 </p>
 
