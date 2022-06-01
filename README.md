@@ -13,7 +13,10 @@
 
 
 ##
-### Miki is a learn-it-all trilingual software engineer with a passion for languages and a deep interest in building applications that enhance communication, be it with humans or computers.
+<h3 align="center">
+	Miki is a learn-it-all trilingual software engineer with a passion for languages and a deep interest in building applications that enhance communication, be it with humans or computers.
+</h3>
+
 #### Since all her background has always been linguistic: English, Accounting - Language of Business, and Computer Science - Language of the Future, Miki strongly believes communication is key in all aspects of life. During her time as an interpreter, Miki has interacted with many individuals, regardless of age and social status, and discovered that they tend to find technology and its various applications nonintuitive and/or user-unfriendly. This has propelled her to pursue computer science and become a software engineer herself to build applications that further bridge the gap between users and computers, among users  as well as among computers themselves in this ever-evolving digital era.
 
 - 👇🏻 You can find Miki's projects below.
@@ -22,7 +25,7 @@
 - 👯 Looking to collaborate on open source projects. 
 - ❓ Ask Miki about ... anything.
 - 👩‍🦰 Pronouns: She/Her/Hers
-- 🐻‍❄️ Fun fact: A dog-and-cat mom, a manga&anime fan, a sweet-tooth person and overall, a cuteness lover @(・●・)@
+- 🐻‍❄️ Fun fact: A dog-and-cat mom, a manga-and-anime fan, a sweet-tooth girl and overall, a cuteness lover @(・●・)@
 
 
 ##
@@ -122,7 +125,10 @@
 
 ##
 ### 📈 GitHub Stats:
-<br />
+<p>
+<details>
+ <summary> <h4>📶 General </h4> </summary>
+</details>
 <p align="center">
  <a href="http://www.github.com/miki-reynolds">
 	 <img width="450px" src="https://github-readme-stats.vercel.app/api?username=miki-reynolds&show_icons=true&hide=&count_private=true&title_color=ff708e&text_color=ffffff&icon_color=ff708e&bg_color=1c1917&hide_border=true&show_icons=true" alt="miki-reynolds's GitHub stats" />
@@ -132,12 +138,15 @@
  </a>
 </p>
 
-<br />
-<p align="center">
- <a href="https://github.com/miki-reynolds">
-	 <img height="180" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miki-reynolds&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1c1917&title_color=ff708e&text_color=ffffff&icon_color=ff708e&hide=Jupyter%20Notebook"  alt="Miki's Top Languages" />
- </a>
-</p>
+<details>
+ <summary> <h4>🔝 Top's Languages </h4> </summary>
+ <br />
+ <p align="center">
+  <a href="https://github.com/miki-reynolds">
+   <img height="180" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miki-reynolds&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1c1917&title_color=ff708e&text_color=ffffff&icon_color=ff708e&hide=Jupyter%20Notebook"  alt="Miki's Top Languages" />
+  </a>
+ </p>
+</details>
 
 
 ##
