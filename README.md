@@ -141,7 +141,7 @@
 
 
 ##
-### 🐍 Feeding my pet with contributions! 
+### 🐍 Feeding the new pet with contributions! 
 <br />
 <p align="center">
   <img src="https://github.com/miki-reynolds/miki-reynolds/blob/output/github-contribution-grid-snake.gif" alt="snake"></center>
