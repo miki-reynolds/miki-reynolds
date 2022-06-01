@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hi There!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
+
+<p align="center">
   <a href="https://github.com/miki-reynolds"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Japanese&size=22&color=FF708E&lines=Welcome+to+Miki's+profile+%CA%95%E2%80%A2%CC%81%E1%B4%A5%E2%80%A2%CC%80%CA%94+;%22The+harder+you+work%2C+;The+luckier+you+get%22++-+Gary+Player&center=true&width=500&height=50"></a>
 </p>
 
@@ -9,20 +13,20 @@
 
 
 ##
-#### Miki is a learn-it-all trilingual software engineer with a passion for languages and a deep interest in building applications that enhance communication, be it with humans or computers.
+### Miki is a learn-it-all trilingual software engineer with a passion for languages and a deep interest in building applications that enhance communication, be it with humans or computers.
 #### Since all her background has always been linguistic: English, Accounting - Language of Business, and Computer Science - Language of the Future, Miki strongly believe communication is key in all aspects of life. During her time as an interpreter, Miki has interacted with many individuals, regardless of age and social status, and discovered that they tend to find technology and its various applications nonintuitive and/or user-unfriendly. This has propelled her to pursue computer science and become a software engineer herself to build applications that further bridge the gap between users and computers as well as among users themselves in this ever-evolving digital era.
 
-- ✍ You can find my projects below.
-- 🔭 I’m currently working on improving my Full Stack Crud Web Application.
-- 🌱 I’m currently learning JavaScript and its related frameworks.
-- 👯 I’m looking to collaborate on open source projects. 
-- 💬 Ask me about ... anything.
+- ✍ You can find Miki's projects below.
+- 🔭 Currently working on improving a full stack application.
+- 🌱 Currently learning JavaScript and its related frameworks.
+- 👯 Looking to collaborate on open source projects. 
+- 💬 Ask Miki about ... anything.
 - 😄 Pronouns: She/Her/Hers
-- ⚡ Fun fact: I'm a dog-and-cat mom, and I love cute things @(・●・)@
+- ⚡ Fun fact: A dog-and-cat mom, a manga&anime fan, a sweet-tooth person and overall, a cuteness lover @(・●・)@
 
 
 ##
-#### Talk with me, I am quite nerdily awesome ✌︎('ω')✌︎ 
+### 💬 Let's connect and have a chat!
 <br />
 <p align="center">
   <!-- <a href=""><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
@@ -32,8 +36,9 @@
 	<a href="https://twitter.com/mikirey_"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" title='Twitter' alt="twitter"/></a>
 </p>
 
+
 ##
-#### Languages and Tools:
+### 🚀 Languages and Tools:
 <br />
 <p align="center"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
@@ -114,19 +119,16 @@
  </a> 
 </p>
 
+
+##
+### 📈 My GitHub Stats:
 <br />
-
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <br />
-  <p align="center">
-   <a href="http://www.github.com/miki-reynolds"><img width="450px" src="https://github-readme-stats.vercel.app/api?username=miki-reynolds&show_icons=true&hide=&count_private=true&title_color=ff708e&text_color=ffffff&icon_color=ff708e&bg_color=1c1917&hide_border=true&show_icons=true" alt="miki-reynolds's GitHub stats" />
-   </a>
-   <a href="http://www.github.com/miki-reynolds"><img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=miki-reynolds&stroke=780b3e&background=1c1917&ring=ff708e&fire=780b3e&currStreakNum=ffffff&currStreakLabel=780b3e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-   </a>
-  </p>
-</details>
+<p align="center">
+ <a href="http://www.github.com/miki-reynolds"><img width="450px" src="https://github-readme-stats.vercel.app/api?username=miki-reynolds&show_icons=true&hide=&count_private=true&title_color=ff708e&text_color=ffffff&icon_color=ff708e&bg_color=1c1917&hide_border=true&show_icons=true" alt="miki-reynolds's GitHub stats" />
+ </a>
+ <a href="http://www.github.com/miki-reynolds"><img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=miki-reynolds&stroke=780b3e&background=1c1917&ring=ff708e&fire=780b3e&currStreakNum=ffffff&currStreakLabel=780b3e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+ </a>
+</p>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
@@ -137,5 +139,12 @@
    </p>
 </details>
 
+
 ##
-#### Watch my contribution graph get eaten by the snake 🐍
+### 🐍 Feeding my snake with contributions! 
+<br />
+<p align="center">
+  <img src="https://github.com/miki-reynolds/miki-reynolds/blob/output/github-contribution-grid-snake.gif" alt="snake"></center>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
