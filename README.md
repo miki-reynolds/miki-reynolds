@@ -14,15 +14,15 @@
 
 ##
 ### Miki is a learn-it-all trilingual software engineer with a passion for languages and a deep interest in building applications that enhance communication, be it with humans or computers.
-#### Since all her background has always been linguistic: English, Accounting - Language of Business, and Computer Science - Language of the Future, Miki strongly believe communication is key in all aspects of life. During her time as an interpreter, Miki has interacted with many individuals, regardless of age and social status, and discovered that they tend to find technology and its various applications nonintuitive and/or user-unfriendly. This has propelled her to pursue computer science and become a software engineer herself to build applications that further bridge the gap between users and computers as well as among users themselves in this ever-evolving digital era.
+#### Since all her background has always been linguistic: English, Accounting - Language of Business, and Computer Science - Language of the Future, Miki strongly believes communication is key in all aspects of life. During her time as an interpreter, Miki has interacted with many individuals, regardless of age and social status, and discovered that they tend to find technology and its various applications nonintuitive and/or user-unfriendly. This has propelled her to pursue computer science and become a software engineer herself to build applications that further bridge the gap between users and computers, among users  as well as among computers themselves in this ever-evolving digital era.
 
-- ✍ You can find Miki's projects below.
-- 🔭 Currently working on improving a full stack application.
+- 👇🏻 You can find Miki's projects below.
+- 👩🏻‍💻 Currently working on improving a full stack application.
 - 🌱 Currently learning JavaScript and its related frameworks.
 - 👯 Looking to collaborate on open source projects. 
-- 💬 Ask Miki about ... anything.
-- 😄 Pronouns: She/Her/Hers
-- ⚡ Fun fact: A dog-and-cat mom, a manga&anime fan, a sweet-tooth person and overall, a cuteness lover @(・●・)@
+- ❓ Ask Miki about ... anything.
+- 👩‍🦰 Pronouns: She/Her/Hers
+- 🐻‍❄️ Fun fact: A dog-and-cat mom, a manga&anime fan, a sweet-tooth person and overall, a cuteness lover @(・●・)@
 
 
 ##
@@ -121,27 +121,27 @@
 
 
 ##
-### 📈 My GitHub Stats:
+### 📈 GitHub Stats:
 <br />
 <p align="center">
- <a href="http://www.github.com/miki-reynolds"><img width="450px" src="https://github-readme-stats.vercel.app/api?username=miki-reynolds&show_icons=true&hide=&count_private=true&title_color=ff708e&text_color=ffffff&icon_color=ff708e&bg_color=1c1917&hide_border=true&show_icons=true" alt="miki-reynolds's GitHub stats" />
+ <a href="http://www.github.com/miki-reynolds">
+	 <img width="450px" src="https://github-readme-stats.vercel.app/api?username=miki-reynolds&show_icons=true&hide=&count_private=true&title_color=ff708e&text_color=ffffff&icon_color=ff708e&bg_color=1c1917&hide_border=true&show_icons=true" alt="miki-reynolds's GitHub stats" />
  </a>
- <a href="http://www.github.com/miki-reynolds"><img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=miki-reynolds&stroke=780b3e&background=1c1917&ring=ff708e&fire=780b3e&currStreakNum=ffffff&currStreakLabel=780b3e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+ <a href="http://www.github.com/miki-reynolds">
+	<img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=miki-reynolds&stroke=780b3e&background=1c1917&ring=ff708e&fire=780b3e&currStreakNum=ffffff&currStreakLabel=780b3e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
  </a>
 </p>
 
-<details>
-  <summary>:zap: Most Used Languages</summary>
-  <br />
-  <p align="center">
-   <a href="https://github.com/miki-reynolds/github-readme-stats"><img alt="Miki's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miki-reynolds&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1c1917&title_color=ff708e&text_color=ffffff&icon_color=ff708e&hide=Jupyter%20Notebook" height="192px"/>
-   </a>
-   </p>
-</details>
+<br />
+<p align="center">
+ <a href="https://github.com/miki-reynolds/github-readme-stats">
+	 <img alt="Miki's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miki-reynolds&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1c1917&title_color=ff708e&text_color=ffffff&icon_color=ff708e&hide=Jupyter%20Notebook" height="180px" width="450px" />
+ </a>
+</p>
 
 
 ##
-### 🐍 Feeding my snake with contributions! 
+### 🐍 Feeding my pet with contributions! 
 <br />
 <p align="center">
   <img src="https://github.com/miki-reynolds/miki-reynolds/blob/output/github-contribution-grid-snake.gif" alt="snake"></center>
