@@ -130,7 +130,7 @@
     <td width="50%" valign="top">
       <h3 align="center">BearPill Diary - A Smart Health Record Manager</h3>
         <br />
-        <a target="_blank" href="https://restaurant-sample-website.netlify.app/">
+        <a target="_blank" href="https://bearpilldiary.herokuapp.com/">
             <img src="img/bearpillgif.gif" width="100%" alt="BearPill Diary"/>
         </a>
         <br />
