@@ -8,7 +8,7 @@
 
 
 <p align="center">
-<img alt="Neko" src="https://github.com/miki-reynolds/miki-reynolds/blob/main/neko.jpg?raw=true"/>
+<img alt="Neko" src="img/neko.jpg?raw=true"/>
 </p>
 
 
@@ -131,7 +131,7 @@
       <h3 align="center">BearPill Diary - A Smart Health Record Manager</h3>
         <br />
         <a target="_blank" href="https://restaurant-sample-website.netlify.app/">
-            <img src="#" width="100%" alt="BearPill Diary"/>
+            <img src="img/bearpillgif.gif" width="100%" alt="BearPill Diary"/>
         </a>
         <br />
         <p align="center">
