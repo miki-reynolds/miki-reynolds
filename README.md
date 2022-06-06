@@ -122,6 +122,31 @@
  </a> 
 </p>
 
+##
+### 📸 Project(s):
+<br>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">BearPill Diary - A Smart Health Record Manager</h3>
+        <br />
+        <a target="_blank" href="https://restaurant-sample-website.netlify.app/">
+            <img src="#" width="100%" alt="BearPill Diary"/>
+        </a>
+        <br />
+        <p align="center">
+          <a href="https://github.com/miki-reynolds/BearPill-Diary" target="_blank">
+		  <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
+	  </a>
+	  <a href="https://bearpilldiary.herokuapp.com/" target="_blank">
+    		<img src="https://img.shields.io/badge/-Website-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
+  	  </a>
+      	</p>
+         <p><strong>Python, Flask, SQLAlchemy, Bootstrap, Chart.js</strong></p>
+    </td>
+  </tr>
+</table>	
+
 
 ##
 ### 📈 GitHub Stats:
