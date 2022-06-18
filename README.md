@@ -17,13 +17,13 @@
 	Miki is a learn-it-all trilingual software engineer with a passion for languages and a deep interest in building applications that enhance communication, be it with humans or computers.
 </h3>
 
-#### Since all her background has always been linguistic: English, Accounting - Language of Business, and Computer Science - Language of the Future, Miki strongly believes communication is key in all aspects of life. During her time as an interpreter, Miki has interacted with many individuals, regardless of age and social status, and discovered that they tend to find technology and its various applications nonintuitive and/or user-unfriendly. This has propelled her to pursue computer science and become a software engineer herself to build applications that further bridge the gap between users and computers, among users  as well as among computers themselves in this ever-evolving digital era.
+#### Since all my background has always been linguistic: English, Accounting - Language of Business, and Computer Science - Language of the Future, I strongly believe communication is key in all aspects of life. During my time as an interpreter, I have interacted with many individuals, regardless of age and social status, and discovered that they tend to find various tech applications nonintuitive and there are still many boxes left unticked. This has propelled me to pursue computer science and become a software engineer myself, with a mission to build applications that further bridge the gap between users and computers as well as among computers themselves in this ever-evolving digital era.
 
-- 👇🏻 You can find Miki's projects below.
+- 👇🏻 You can find my projects below.
 - 👩🏻‍💻 Currently working on improving a full stack application.
 - 🌱 Currently learning JavaScript and its related frameworks.
 - 👯 Looking to collaborate on open source projects. 
-- ❓ Ask Miki about ... anything.
+- ❓ Ask me about ... anything.
 - 👩‍🦰 Pronouns: She/Her/Hers
 - 🐻‍❄️ Fun fact: A dog-and-cat mom, a manga-and-anime fan, a sweet-tooth girl and overall, a cuteness lover @(・●・)@
 
@@ -174,7 +174,7 @@
 
 
 ##
-### 🐍 Feeding the new pet with contributions! 
+### 🐍 Feeding my new pet with contributions! 
 <br />
 <p align="center">
   <img src="https://github.com/miki-reynolds/miki-reynolds/blob/output/github-contribution-grid-snake.gif" alt="snake"></center>
