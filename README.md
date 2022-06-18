@@ -14,7 +14,7 @@
 
 ##
 <h3 align="center">
-	Miki is a learn-it-all trilingual software engineer with a passion for languages and a deep interest in building applications that enhance communication, be it with humans or computers.
+	A learn-it-all trilingual software engineer with a passion for languages and a deep interest in building applications that enhance communication, be it with humans or computers.
 </h3>
 
 #### Since all my background has always been linguistic: English, Accounting - Language of Business, and Computer Science - Language of the Future, I strongly believe communication is key in all aspects of life. During my time as an interpreter, I have interacted with many individuals, regardless of age and social status, and discovered that they tend to find various tech applications nonintuitive and there are still many boxes left unticked. This has propelled me to pursue computer science and become a software engineer myself, with a mission to build applications that further bridge the gap between users and computers as well as among computers themselves in this ever-evolving digital era.
