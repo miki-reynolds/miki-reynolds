@@ -152,7 +152,7 @@
 <p>
 <details>
  <summary> <h4>📶 General </h4> </summary>
- <br />
+ </details>
  <p align="center">
  <a href="http://www.github.com/miki-reynolds">
 	 <img width="450px" src="https://github-readme-stats.vercel.app/api?username=miki-reynolds&show_icons=true&hide=&count_private=true&title_color=ff708e&text_color=ffffff&icon_color=ff708e&bg_color=1c1917&hide_border=true&show_icons=true" alt="miki-reynolds's GitHub stats" />
@@ -161,7 +161,7 @@
 	<img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=miki-reynolds&stroke=780b3e&background=1c1917&ring=ff708e&fire=780b3e&currStreakNum=ffffff&currStreakLabel=780b3e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
  </a>
 </p>
-</details>
+
 
 <details>
  <summary> <h4>🔝 Top's Languages </h4> </summary>
