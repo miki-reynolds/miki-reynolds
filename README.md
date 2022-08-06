@@ -144,6 +144,29 @@
          <p align="center"><strong>Python, Flask, SQLAlchemy, Bootstrap, Chart.js</strong></p>
     </td>
   </tr>
+</table>
+
+<table align="center">
+  <tr>
+     <td width="50%" valign="top">
+      <h3 align="center">Pomodoro X - A Chrome Extension</h3>
+        <br />
+        <a target="_blank" href="https://chrome.google.com/webstore/category/extensions">
+            <img src="https://github.com/miki-reynolds/pomodoroX/blob/7a41a57c84b58afed4a40a1d8b2398befc56f3e7/media/pomo.gif" width="100%" alt="Pomodoro X"/>
+        </a>
+        <br />
+        <p align="center">
+          <a href="https://github.com/miki-reynolds/pomodoroX" target="_blank">
+		  <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
+	  </a>
+	  <a href="https://chrome.google.com/webstore/category/extensions" target="_blank">
+    		<img src="https://img.shields.io/badge/-Store-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
+  	  </a>
+      	</p>
+         <p align="center"><strong>JavaScript, HTML, CSS, Chrome Extension API</strong></p>
+    </td>
+  </tr>
+
 </table>	
 
 
