@@ -203,7 +203,7 @@
 
 
 ##
-### 🐍 Feeding my new pet with contributions! 
+### 🐍 Feeding my pet some contributions! 
 <br />
 <p align="center">
   <img src="https://github.com/miki-reynolds/miki-reynolds/blob/output/github-contribution-grid-snake.gif" alt="snake"></center>
