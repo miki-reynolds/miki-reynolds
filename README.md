@@ -20,8 +20,8 @@
 #### Since all my background has always been linguistic: English, Accounting - Language of Business, and Computer Science - Language of the Future, I strongly believe communication is key in all aspects of life. During my time as an interpreter, I have interacted with many individuals, regardless of age and social status, and discovered that they tend to find various tech applications nonintuitive and there are still many boxes left unticked. This has propelled me to pursue computer science and become a software engineer myself, with a mission to build applications that further bridge the gap between users and computers as well as among computers themselves in this ever-evolving digital era.
 
 - 👇🏻 You can find my projects below.
-- 👩🏻‍💻 Currently working on a full stack application.
-- 🌱 Currently learning JavaScript and its related frameworks.
+- 👩🏻‍💻 Currently working on a Spring Boot full stack application .
+- 🌱 Currently learning Kotlin and Android Development.
 - 👯 Looking to collaborate on open source projects. 
 - ❓ Ask me about ... anything.
 - 👩‍🦰 Pronouns: She/Her/Hers
