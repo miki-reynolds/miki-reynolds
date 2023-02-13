@@ -182,24 +182,27 @@
 <p>
 <details>
  <summary> <h4>📶 General </h4> </summary>
- </details>
- <p align="center">
+  <br />
+  <p align="center">
  
- <a href="http://www.github.com/miki-reynolds">
+  <a href="http://www.github.com/miki-reynolds">
 	<img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=miki-reynolds&stroke=780b3e&background=1c1917&ring=ff708e&fire=780b3e&currStreakNum=ffffff&currStreakLabel=780b3e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
- </a>
-</p>
+  </a>
+ </p>
+</details>
+
 
 
 <details>
  <summary> <h4>🔝 Top's Languages </h4> </summary>
+</details>
  <br />
  <p align="center">
   <a href="https://github.com/miki-reynolds">
    <img height="180" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miki-reynolds&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1c1917&title_color=ff708e&text_color=ffffff&icon_color=ff708e&hide=Jupyter%20Notebook"  alt="Miki's Top Languages" />
   </a>
  </p>
-</details>
+
 
 
 ##
