@@ -20,7 +20,7 @@
 #### Since all my background has always been linguistic: English, Accounting - Language of Business, and Computer Science - Language of the Future, I strongly believe communication is key in all aspects of life. During my time as an interpreter, I have interacted with many individuals, regardless of age and social status, and discovered that they tend to find various tech applications nonintuitive and there are still many boxes left unticked. This has propelled me to pursue computer science and become a software engineer myself, with a mission to build applications that further bridge the gap between users and computers as well as among computers themselves in this ever-evolving digital era.
 
 - 👇🏻 You can find my projects below.
-- 👩🏻‍💻 Currently working on a Spring Boot full stack application .
+- 👩🏻‍💻 Currently working on an Android application.
 - 🌱 Currently learning Kotlin and Android Development.
 - 👯 Looking to collaborate on open source projects. 
 - ❓ Ask me about ... anything.
@@ -136,10 +136,11 @@
     <td width="50%" valign="top">
       <h3 align="center">BearPill Diary - A Smart Health Record Manager</h3>
         <br />
+	<p align="center">
         <a target="_blank" href="https://bearpilldiary.herokuapp.com/">
-            <img src="https://github.com/miki-reynolds/miki-reynolds/blob/688823c5c22a05b4bdf5b40252ba7d511ae598ac/img/bearpillgif.gif" width="100%" alt="BearPill Diary"/>
+            <img src="https://github.com/miki-reynolds/miki-reynolds/blob/688823c5c22a05b4bdf5b40252ba7d511ae598ac/img/bearpillgif.gif" width="90%" alt="BearPill Diary"/>
         </a>
-        <br />
+	</p>
         <p align="center">
           <a href="https://github.com/miki-reynolds/BearPill-Diary" target="_blank">
 		  <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
@@ -154,14 +155,36 @@
 </table>
 
 <table align="center">
-  <tr>
+  <tc>
+     <td width="50%" valign="top">
+      <h3 align="center">FlixsterTrending - An Android App</h3>
+        <br />
+	<p align="center">
+        <a target="_blank" href="">
+            <img src="https://github.com/miki-reynolds/FlixsterTrending/blob/34b307e2faf529559ed1496ef0c66cdb5ccce160/FlixsterTrending.gif" width="50%" alt="FlixsterTrending"/>
+        </a>
+	</p>
+        <p align="center">
+          <a href="https://github.com/miki-reynolds/FlixsterTrending" target="_blank">
+		  <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
+	  </a>
+	  <a href="https://chrome.google.com/webstore/category/extensions" target="_blank">
+    		<img src="https://img.shields.io/badge/-Store-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
+  	  </a>
+      	</p>
+         <p align="center"><strong>Java, Kotlin, Android Development</strong></p>
+    </td>
+  </tc>	
+	
+  <tc>
      <td width="50%" valign="top">
       <h3 align="center">Pomodoro X - A Chrome Extension</h3>
         <br />
+	<p align="center">
         <a target="_blank" href="https://chrome.google.com/webstore/category/extensions">
-            <img src="https://github.com/miki-reynolds/pomodoroX/blob/7a41a57c84b58afed4a40a1d8b2398befc56f3e7/media/pomo.gif" width="100%" alt="Pomodoro X"/>
+            <img src="https://github.com/miki-reynolds/pomodoroX/blob/7a41a57c84b58afed4a40a1d8b2398befc56f3e7/media/pomo.gif" width="95%" alt="Pomodoro X"/>
         </a>
-        <br />
+	</p>
         <p align="center">
           <a href="https://github.com/miki-reynolds/pomodoroX" target="_blank">
 		  <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
@@ -172,7 +195,7 @@
       	</p>
          <p align="center"><strong>JavaScript, HTML, CSS, Chrome Extension API</strong></p>
     </td>
-  </tr>
+  </tc>
 
 </table>	
 
@@ -188,7 +211,7 @@
 	<img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=miki-reynolds&stroke=780b3e&background=1c1917&ring=ff708e&fire=780b3e&currStreakNum=ffffff&currStreakLabel=780b3e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
   </a>
  </p>
- 
+
   <p align="center">
   <a href="https://github.com/miki-reynolds">
    <img height="180" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miki-reynolds&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1c1917&title_color=ff708e&text_color=ffffff&icon_color=ff708e&hide=Jupyter%20Notebook"  alt="Miki's Top Languages" />
