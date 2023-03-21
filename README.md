@@ -140,7 +140,7 @@
         <br />
 	<p align="center">
         <a target="_blank" href="https://bearpilldiary.herokuapp.com/">
-            <img src="https://github.com/miki-reynolds/miki-reynolds/blob/688823c5c22a05b4bdf5b40252ba7d511ae598ac/img/bearpillgif.gif" width="90%" alt="BearPill Diary"/>
+            <img src="https://github.com/miki-reynolds/miki-reynolds/blob/688823c5c22a05b4bdf5b40252ba7d511ae598ac/img/bearpillgif.gif" width="100%" alt="BearPill Diary"/>
         </a>
 	</p>
         <p align="center">
