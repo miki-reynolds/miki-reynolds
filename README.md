@@ -170,7 +170,7 @@
           <a href="https://github.com/miki-reynolds/FlixsterTrending" target="_blank">
 		  <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
 	  </a>
-	  <a href="https://chrome.google.com/webstore/category/extensions" target="_blank">
+	  <a href="" target="_blank">
     		<img src="https://img.shields.io/badge/-Store-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
   	  </a>
       	</p>
