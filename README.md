@@ -146,9 +146,7 @@
 <table align="center">
   <tr>
    <td>
-     <p align="center">
       <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=miki-reynolds&theme=dracula&hide_border=true" alt="GitHub Streak" /></a>
-     </p>
    </td>
    <td>
       <a href="https://github.com/miki-reynolds">
