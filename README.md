@@ -17,15 +17,12 @@
 	A learn-it-all trilingual dev with a passion for languages and a deep interest in building applications that enhance communication, be it with humans or computers.
 </h3>
 
-#### As a software engineer and entrepreneur, my ultimate career goal is to build meaningful applications that make a positive difference in people's lives. This passion began when I witnessed the challenges that patients faced in managing their medications and checking for side effects. To help them overcome these challenges, I developed an application called BearPill Diary, which improved health record management by 80%. My education in both computer science and business administration has provided me with a strong foundation in technical and business knowledge, and I am confident that I have the skills and drive to succeed in these fields.
-#### In addition to my academic pursuits, I have also been involved in various extracurricular activities such as AnitaB, Rewriting the Code, and the Society of Women Engineers. These organizations have provided me with opportunities to network with other like-minded individuals, attend conferences and workshops, and develop my leadership skills.
-#### With my trilingual background in English, Vietnamese and Japanese, as well as my passion for innovation, I strive to explore the intersection of machine learning and artificial intelligence to develop applications that empower individuals and bridge cultural gaps. Ultimately, I aspire to build software that positively impacts society and brings people closer together.
+#### As a software engineer and entrepreneur, my ultimate career aspiration is to build meaningful applications that make a positive difference in my and others' lives.
+#### With my trilingual background in English, Vietnamese and Japanese, as well as my passion for innovation, I strive to explore the intersection of machine learning and artificial intelligence to develop applications that empower individuals and bridge cultural gaps.
 
-- 👇🏻 You can find my projects below.
-- 👩🏻‍💻 Currently working on an Android application.
-- 🌱 Currently learning Kotlin and Android Development.
+- 👩🏻‍💻 Currently working on an Android and Full Stack Web applications.
+- 🌱 Currently learning more about C and Operating Systems.
 - 👯 Looking to collaborate on open source projects. 
-- ❓ Ask me about ... anything.
 - 👩‍🦰 Pronouns: She/Her/Hers
 - 🐻‍❄️ Fun fact: A dog-and-cat mom, a manga-and-anime fan, a sweet-tooth girl and overall, a cuteness lover @(・●・)@
 
@@ -37,8 +34,7 @@
   <!-- <a href=""><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
 	<a href="mailto:mikireynolds.swe@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
 	<a href="https://github.com/miki-reynolds"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title='GitHub' alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/mikireynolds10/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
-	<a href="https://twitter.com/mikirey_"><img src="https://img.icons8.com/bubbles/50/000000/twitter-circled.png" title='Twitter' alt="twitter"/></a>
+	<a href="https://www.linkedin.com/in/mikirey/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
 </p>
 
 
@@ -156,57 +152,9 @@
   </tr>
 </table>
 
-<table align="center">
-  <tc>
-     <td width="50%" valign="top">
-      <h3 align="center">FlixsterTrending - An Android App</h3>
-        <br />
-	<p align="center">
-        <a target="_blank" href="">
-            <img src="https://github.com/miki-reynolds/FlixsterTrending/blob/34b307e2faf529559ed1496ef0c66cdb5ccce160/FlixsterTrending.gif" width="50%" alt="FlixsterTrending"/>
-        </a>
-	</p>
-        <p align="center">
-          <a href="https://github.com/miki-reynolds/FlixsterTrending" target="_blank">
-		  <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
-	  </a>
-	  <a href="" target="_blank">
-    		<img src="https://img.shields.io/badge/-Store-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
-  	  </a>
-      	</p>
-         <p align="center"><strong>Java, Kotlin, Android Development</strong></p>
-    </td>
-  </tc>	
-	
-  <tc>
-     <td width="50%" valign="top">
-      <h3 align="center">Pomodoro X - A Chrome Extension</h3>
-        <br />
-	<p align="center">
-        <a target="_blank" href="https://chrome.google.com/webstore/category/extensions">
-            <img src="https://github.com/miki-reynolds/pomodoroX/blob/7a41a57c84b58afed4a40a1d8b2398befc56f3e7/media/pomo.gif" width="95%" alt="Pomodoro X"/>
-        </a>
-	</p>
-        <p align="center">
-          <a href="https://github.com/miki-reynolds/pomodoroX" target="_blank">
-		  <img src="https://img.shields.io/badge/-Repo-000?style=for-the-badge&logo=Github&logoColor=white" />
-	  </a>
-	  <a href="https://chrome.google.com/webstore/category/extensions" target="_blank">
-    		<img src="https://img.shields.io/badge/-Store-fff?style=for-the-badge&logo=Wordpress&logoColor=black" />
-  	  </a>
-      	</p>
-         <p align="center"><strong>JavaScript, HTML, CSS, Chrome Extension API</strong></p>
-    </td>
-  </tc>
-
-</table>	
-
-
 ##
 ### 📈 GitHub Stats:
 <p>
-<details>
- <summary> <h4>📶 General </h4> </summary>
   <br />
   <p align="center">
   <a href="http://www.github.com/miki-reynolds">
@@ -219,15 +167,14 @@
    <img height="180" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miki-reynolds&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1c1917&title_color=ff708e&text_color=ffffff&icon_color=ff708e&hide=Jupyter%20Notebook"  alt="Miki's Top Languages" />
   </a>
  </p>
- 
-</details>
+</p>
 
 
 ##
 ### 🐍 Feeding my pet some contributions! 
 <br />
 <p align="center">
-  <img src="https://github.com/miki-reynolds/miki-reynolds/blob/output/github-contribution-grid-snake.gif" alt="snake"></center>
+  <center><img src="https://github.com/miki-reynolds/miki-reynolds/blob/output/github-contribution-grid-snake.gif" alt="snake"></center>
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
