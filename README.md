@@ -17,25 +17,13 @@
 	A learn-it-all trilingual dev with a passion for languages and a deep interest in building applications that enhance communication, be it with humans or computers.
 </h3>
 
-#### As a software engineer and entrepreneur, my ultimate career aspiration is to build meaningful applications that make a positive difference in my and others' lives.
-#### With my trilingual background in English, Vietnamese and Japanese, as well as my passion for innovation, I strive to explore the intersection of machine learning and artificial intelligence to develop applications that empower individuals and bridge cultural gaps.
+#### As a software engineer and entrepreneur, my ultimate career aspiration is to build meaningful applications that make a positive difference in my and others' lives. With my trilingual background in English, Vietnamese and Japanese, as well as my passion for innovation, I strive to explore the intersection of machine learning and artificial intelligence to develop applications that empower individuals and bridge cultural gaps.
 
 - 👩🏻‍💻 Currently working on an Android and Full Stack Web applications.
 - 🌱 Currently learning more about C and Operating Systems.
 - 👯 Looking to collaborate on open source projects. 
 - 👩‍🦰 Pronouns: She/Her/Hers
 - 🐻‍❄️ Fun fact: A dog-and-cat mom, a manga-and-anime fan, a sweet-tooth girl and overall, a cuteness lover @(・●・)@
-
-
-##
-### 💬 Let's connect and have a chat!
-<br />
-<p align="center">
-  <!-- <a href=""><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a> -->
-	<a href="mailto:mikireynolds.swe@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" title='Gmail' alt="Gmail"/></a>
-	<a href="https://github.com/miki-reynolds"><img src="https://img.icons8.com/bubbles/50/000000/github.png" title='GitHub' alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/mikirey/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" title='LinkedIn' alt="LinkedIn"/></a>
-</p>
 
 
 ##
@@ -154,27 +142,28 @@
 
 ##
 ### 📈 GitHub Stats:
-<p>
-  <br />
-  <p align="center">
-  <a href="http://www.github.com/miki-reynolds">
-	<img width="450px" src="https://github-readme-streak-stats.herokuapp.com/?user=miki-reynolds&stroke=780b3e&background=1c1917&ring=ff708e&fire=780b3e&currStreakNum=ffffff&currStreakLabel=780b3e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-  </a>
- </p>
+<br />
+<table align="center">
+  <tr>
+   <td>
+     <p align="center">
+      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=miki-reynolds&theme=dracula&hide_border=true" alt="GitHub Streak" /></a>
+     </p>
+   </td>
+   <td>
+      <a href="https://github.com/miki-reynolds">
+       <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=miki-reynolds&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=F2C9D4&title_color=000000&text_color=594347&icon_color=F2ACC6&hide=Jupyter%20Notebook"  alt="Miki's Top Languages" />
+      </a>    
+   </td>
+  </tr>
 
-  <p align="center">
-  <a href="https://github.com/miki-reynolds">
-   <img height="180" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miki-reynolds&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1c1917&title_color=ff708e&text_color=ffffff&icon_color=ff708e&hide=Jupyter%20Notebook"  alt="Miki's Top Languages" />
-  </a>
- </p>
-</p>
-
+</table>
 
 ##
 ### 🐍 Feeding my pet some contributions! 
 <br />
-<p align="center">
-  <center><img src="https://github.com/miki-reynolds/miki-reynolds/blob/output/github-contribution-grid-snake.gif" alt="snake"></center>
 
+<p align="center">
+  <img src="https://github.com/miki-reynolds/miki-reynolds/blob/output/pinku.gif" alt="snake">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
