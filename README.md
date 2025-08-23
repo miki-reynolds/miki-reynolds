@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/miki-reynolds"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Japanese&size=22&color=FF708E&lines=one+of+my+favorite+quotes+is;%22The+harder+you+work%2C+;The+luckier+you+get%22++-+Gary+Player&center=true&width=500&height=50"></a>
+  <a href="https://github.com/miki-reynolds"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+Japanese&size=22&color=FF708E&lines=one+of+my+favorite+quotes+is;%22the+harder+you+work%2C+;the+luckier+you+get%22++-+gary+player&center=true&width=500&height=50"></a>
 </p>
 
 
