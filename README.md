@@ -24,13 +24,10 @@
 <br />
 <table align="center">
   <tr>
-   <td>
-      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=miki-reynolds&theme=dracula&hide_border=true" alt="GitHub Streak" /></a>
-   </td>
 	  <td>
-		  	<p align="center">
-		  <img src="https://github.com/miki-reynolds/miki-reynolds/blob/output/pinku.gif" alt="snake">
-	  </p>
+    	<p align="center">
+	  	  <img src="https://github.com/miki-reynolds/miki-reynolds/blob/output/pinku.gif" alt="snake">
+  	  </p>
 	  </td>
   </tr>
 </table>
