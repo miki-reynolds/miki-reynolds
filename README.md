@@ -22,15 +22,9 @@
   </a>
 </p>
 <br />
-<table align="center">
-  <tr>
-	  <td>
-    	<p align="center">
-	  	  <img src="https://github.com/miki-reynolds/miki-reynolds/blob/output/pinku.gif" alt="snake">
-  	  </p>
-	  </td>
-  </tr>
-</table>
+<p align="center">
+ <img src="https://github.com/miki-reynolds/miki-reynolds/blob/output/pinku.gif" alt="snake">
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
