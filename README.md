@@ -21,7 +21,6 @@
     <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,azure,elasticsearch,jenkins,kafka,go,java,spring,js,nodejs,ts,npm,py,mysql,bash,c,linux,git,bash,vim,github" />
   </a>
 </p>
-<br />
 <p align="center">
  <img src="https://github.com/miki-reynolds/miki-reynolds/blob/output/pinku.gif" alt="snake">
 </p>
