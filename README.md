@@ -8,13 +8,13 @@
 
 
 <p align="center">
-<img alt="Neko" src="img/neko.jpg?raw=true"/>
+<img alt="Neko" src="img/funny_ram.jpeg?raw=true"/>
 </p>
 
 
 ##
 <h3 align="center">
-	trilingual software engineer, quite nerdy about languages and programming.
+	trilingual swe who loves programming, languages and snacks
 </h3>
 <p align="center"> 
  <a href="https://skillicons.dev">
