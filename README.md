@@ -8,7 +8,7 @@
 
 
 <p align="center">
-<img alt="Neko" src="img/funny_ram.jpeg?raw=true"/>
+<img alt="Neko" src="img/IMG_1601.jpeg?raw=true"/>
 </p>
 
 
