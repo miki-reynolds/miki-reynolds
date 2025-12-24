@@ -25,6 +25,8 @@ class AboutMi:
         Hobbies are reading and building softwares that help myself and my loved ones.
         I love nerdy jokes... Also, I'm trilingual!
         """
+        self.tmi_facts = "It's weird - I get easily startled... Something is not 200!"
+
         
         self.focus_areas = [
             "Autonomous AI agents & ML/AI systems",
