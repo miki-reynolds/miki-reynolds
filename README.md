@@ -53,7 +53,7 @@ class AboutMi:
             
             "pocs_mvps": [
                 """Designed C2PA multi-agent provenance system POC & co-developed Brand-Aware-Tagging 
-                MVP that shipped to GA in 2025"""
+                POC that eventually got shipped to GA in 2025"""
             ]
         }
         
