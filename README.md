@@ -33,14 +33,14 @@ class AboutMi:
         
         self.ci_cd = {
             "distributed_system": 
-                """Implemented end-to-end scalable ingestion and AI-powered enrichment 
+                """Designed and implemented end-to-end scalable ingestion and AI-powered enrichment 
                 pipelines on AWS using distributed semaphores and optimistic locking 
                 to orchestrate multi-cloud asset flows for partners, e.g. Warner Bros, 
                 enabling cross-cloud asset discovery without data duplication.""",
             
             "data_pipelines": 
                 """Redesigned AEM Assets event ingestion from HTTP to Kafka-based 
-                pipelines with exactly-once semantics, processing billions of events/day""",
+                pipelines with exactly-once semantics, reliably processing billions of events/day""",
             
             "data_analytics":
                 """Built incremental, version-controlled data models in dbt and Snowflake 
@@ -48,7 +48,7 @@ class AboutMi:
                 proactive churn mitigation""",
             
             "mvps":
-                """Designed C2PA multi-agent provenance system POC & Brand-Aware-Tagging 
+                """Designed C2PA multi-agent provenance system POC & co-developed Brand-Aware-Tagging 
                 MVP that shipped to GA in 2025"""
         }
         
