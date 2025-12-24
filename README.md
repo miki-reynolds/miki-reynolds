@@ -35,19 +35,18 @@ class AboutMi:
         # plz tell me u get my pun TT.TT
         self.ci_cd = {
             "distributed_system": [
-                """Designed and implemented end-to-end scalable ingestion and AI-powered enrichment 
-                pipelines on AWS using distributed semaphores and optimistic locking 
+                """Designed and implemented end-to-end scalable ingestion & AI-powered enrichment 
+                pipelines on AWS using distributed semaphores & optimistic locking 
                 to orchestrate multi-cloud asset flows for partners, e.g. Warner Bros, 
-                enabling cross-cloud asset discovery without data duplication.""",
+                enabling cross-cloud asset discovery without costly data duplication.""",
             
-                """Redesigned AEM Assets event ingestion from HTTP to Kafka-based 
-                pipelines with exactly-once semantics, reliably processing billions of events/day"""
+                """Redesigned AEM Assets event ingestion from at-least-once-guaranteed delivery HTTP to Kafka-based
+                pipelines with exactly-once semantics, eliminating dedup logic & reliably processing billions+ of events a day"""
             ],
             
             "data_analytics": [
-                """Built incremental, version-controlled data models in dbt and Snowflake 
-                for attrition risk prediction, enabling data-driven decisions and 
-                proactive churn mitigation"""
+                """Built incremental, version-controlled data models in dbt & Snowflake 
+                for attrition risk prediction, enabling data-driven decisions and proactive churn mitigation"""
             ],
             
             "pocs_mvps": [
@@ -65,12 +64,12 @@ class AboutMi:
         self.pet_projects = {
             "miki-kb": {
                 "about" : """Building a personal knowledge base with Notion, NotebookLM & RAG
-                  using GCP, LangChain and n8n""",
+                  using GCP, LangChain & n8n""",
                 "status": "designing"
             },
             "something medical": {
                 "about" : """Exploring on expanding my prev. healthcare project that I developed for my parents
-                  and prev. patients using GCP...""",
+                  & prev. patients using GCP...""",
                 "status": "ideating"
             },
         }
@@ -78,7 +77,7 @@ class AboutMi:
     
     def introduce(self):
         print(f"＼ʕ •ᴥ•ʔ／ Hi | こんにちは | Xin chào - I'm {self.name}!")
-        print(f"Passionate about natural + technical languages, continuous learning and exploring emerging technologies!")
+        print(f"Passionate about natural + technical languages, continuous learning & exploring emerging technologies!")
 
 if __name__ == "__main__":
     mi = AboutMi()
