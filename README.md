@@ -47,7 +47,7 @@ class AboutMi:
                 for attrition risk prediction, enabling data-driven decisions and 
                 proactive churn mitigation""",
             
-            "mvps":
+            "pocs_mvps":
                 """Designed C2PA multi-agent provenance system POC & co-developed Brand-Aware-Tagging 
                 MVP that shipped to GA in 2025"""
         }
