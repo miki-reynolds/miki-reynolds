@@ -73,7 +73,7 @@ class AboutMi:
                 "about" : """Exploring on expanding my prev. healthcare project that I developed for my parents
                   & prev. patients using GCP...""",
                 "status": "ideating"
-            },
+            }
         }
     
     
