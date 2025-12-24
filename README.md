@@ -61,7 +61,7 @@ class AboutMi:
         self.current_pet_projects = {
             "my_knowledge_base": 
                 """Building a personal knowledge base with Notion, NotebookLM, 
-                and RAG using LangChain and n8n"""
+                and RAG using GCP, LangChain and n8n"""
         }
     
     
