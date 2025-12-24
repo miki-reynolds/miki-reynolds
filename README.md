@@ -22,10 +22,10 @@ class AboutMi:
         self.fun_facts = """
         My name is pronounced as /me/, hence the `AboutMi`! 
         My nickname growing up is Miki - a combo of my first & middle name ＠＾▽＾＠ 
-        Hobbies are reading and building softwares that help myself and my loved ones.
-        I love nerdy jokes... Also, I'm trilingual!
+        Hobbies are reading and building softwares that _help_ myself and my loved ones.
+        I love nerdy jokes! Also, I'm trilingual!
         """
-        self.tmi_facts = "It's weird - I get easily startled... Something is not 200!"
+        self.tmi_facts = "It's weird - I get easily startled (-̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥᷄_-̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥̥᷅ ) Something is not 200..."
 
         
         self.focus_areas = [
