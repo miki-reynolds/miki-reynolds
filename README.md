@@ -22,34 +22,38 @@ class AboutMi:
         self.fun_facts = """
         My name is pronounced as /me/, hence the `AboutMi`! 
         My nickname growing up is Miki - a combo of my first & middle name ＠＾▽＾＠ 
+        Hobbies are reading and building softwares that help myself and my loved ones.
         I love nerdy jokes... Also, I'm trilingual!
         """
         
         self.focus_areas = [
             "Autonomous AI agents & ML/AI systems",
             "Distributed systems & event-driven architectures",
-            "Scalable cloud infrastructure (AWS, Kafka, dBT, Snowflake, Iceberg)",
+            "Scalable cloud infrastructure (AWS, Kafka, dBT, Snowflake, Iceberg)"
         ]
-        
+
+        # plz tell me u get my pun TT.TT
         self.ci_cd = {
-            "distributed_system": 
+            "distributed_system": [
                 """Designed and implemented end-to-end scalable ingestion and AI-powered enrichment 
                 pipelines on AWS using distributed semaphores and optimistic locking 
                 to orchestrate multi-cloud asset flows for partners, e.g. Warner Bros, 
                 enabling cross-cloud asset discovery without data duplication.""",
             
-            "data_pipelines": 
                 """Redesigned AEM Assets event ingestion from HTTP to Kafka-based 
-                pipelines with exactly-once semantics, reliably processing billions of events/day""",
+                pipelines with exactly-once semantics, reliably processing billions of events/day"""
+            ],
             
-            "data_analytics":
+            "data_analytics": [
                 """Built incremental, version-controlled data models in dbt and Snowflake 
                 for attrition risk prediction, enabling data-driven decisions and 
-                proactive churn mitigation""",
+                proactive churn mitigation"""
+            ],
             
-            "pocs_mvps":
+            "pocs_mvps": [
                 """Designed C2PA multi-agent provenance system POC & co-developed Brand-Aware-Tagging 
                 MVP that shipped to GA in 2025"""
+            ]
         }
         
         self.core_tech_stack = [
@@ -58,10 +62,17 @@ class AboutMi:
             "n8n", "Docker", "Kubernetes", "ArgoCD"
         ]
 
-        self.current_pet_projects = {
-            "my_knowledge_base": 
-                """Building a personal knowledge base with Notion, NotebookLM, 
-                and RAG using GCP, LangChain and n8n"""
+        self.pet_projects = {
+            "miki-kb": {
+                "about" : """Building a personal knowledge base with Notion, NotebookLM & RAG
+                  using GCP, LangChain and n8n""",
+                "status": "designing"
+            },
+            "something medical": {
+                "about" : """Exploring on expanding my prev. healthcare project that I developed for my parents
+                  and prev. patients using GCP...""",
+                "status": "ideating"
+            },
         }
     
     
