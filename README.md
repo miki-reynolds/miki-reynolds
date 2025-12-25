@@ -65,8 +65,8 @@ class AboutMi:
 
         self.pet_projects = {
             "miki-kb": {
-                "about" : """Building a personal knowledge base with Notion, NotebookLM & RAG
-                  using GCP, LangChain & n8n""",
+                "about" : """AI-powered knowledge base syncing Notion to custom RAG API & NotebookLM
+      via automated n8n workflows with LangChain & pluggable providers""",
                 "status": "designing"
             },
             "something medical": {
