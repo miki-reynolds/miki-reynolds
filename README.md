@@ -65,14 +65,18 @@ class AboutMi:
 
         self.pet_projects = {
             "miki-kb": {
-                "about" : """AI-powered knowledge base syncing Notion to custom RAG API & NotebookLM
-      via automated n8n workflows with LangChain & pluggable providers""",
-                "status": "designing"
+                "about" : """My AI-powered knowledge base""",
+                "repo": "Coming soon",
+                "tech_stack": "Python, Notion, GCP, RAG, Docker, Github Actions, n8n, Pytest",
+                "demo": "Pending",
+                "status": "Private - Designing"
             },
-            "something medical": {
-                "about" : """Exploring on expanding my prev. healthcare project that I developed for my parents
-                  & prev. patients using GCP...""",
-                "status": "ideating"
+            "BearPill-Diary": {
+                "about" : """Expanding on v1 to v2, an AI-powered medication tracker with intelligent health insights using pluggable ML models and medical data APIs""",
+                "repo": "https://github.com/miki-reynolds/BearPill-Diary/",
+                "tech_stack": "Python, FastAPI, SQLAlchemy, Redis, Pandas, NumPy, GCP, Langchain, Openhands, OpenFDA, Docker, Github Actions, Pytest",
+                "demo": "Not yet started",
+                "status": "Private - Implementing"
             }
         }
     
