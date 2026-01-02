@@ -67,14 +67,16 @@ class AboutMi:
             "miki-kb": {
                 "about" : """My AI-powered knowledge base""",
                 "repo": "Coming soon",
-                "tech_stack": "Python, Notion, GCP, RAG, Docker, Github Actions, n8n, Pytest",
+                "tech": "Python, Notion, GCP, RAG, Docker, Github Actions, n8n, Pytest",
                 "demo": "Pending",
                 "status": "Private - Designing"
             },
             "BearPill-Diary": {
-                "about" : """Expanding on v1 to v2, an AI-powered medication tracker with intelligent health insights using pluggable ML models and medical data APIs""",
+                "about" : """Expanding on v1 to v2, an AI-powered medication tracker with intelligent health insights
+                  using pluggable ML models and medical data APIs""",
                 "repo": "https://github.com/miki-reynolds/BearPill-Diary/",
-                "tech_stack": "Python, FastAPI, SQLAlchemy, Redis, Pandas, NumPy, GCP, Langchain, Openhands, OpenFDA, Docker, Github Actions, Pytest",
+                "tech": "Python, FastAPI, SQLAlchemy, Redis, Pandas, NumPy, GCP, Langchain, OpenHands, OpenFDA,
+                  Docker, Github Actions, Pytest",
                 "demo": "Not yet started",
                 "status": "Private - Implementing"
             }
