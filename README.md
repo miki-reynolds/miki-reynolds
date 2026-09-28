@@ -64,14 +64,22 @@ class AboutMi:
         ]
 
         self.pet_projects = {
-            "BearPill-Diary": {
-                "about" : """Expanding on v1 to v2, an AI-powered medication tracker with intelligent health insights
-                  using pluggable ML models and medical data APIs""",
-                "repo": "https://github.com/miki-reynolds/BearPill-Diary/",
-                "tech": """Python, FastAPI, SQLAlchemy, Redis, Pandas, NumPy, GCP, Langchain, OpenHands, OpenFDA,
-                  Docker, Github Actions, Pytest""",
-                "demo": "Not yet started",
+            "omnipresent": {
+                "about" : """A local, single-user governance & evaluation harness for autonomous agents:
+                  every agent finding flows through verification, approval, memory, trust weighting
+                  & observability before it can land, with multi-oracle verifiers and a knowledge-graph memory""",
+                "repo": "https://github.com/miki-reynolds/omnipresent/",
+                "tech": """Python, Omnigent, Graphiti, Neo4j, Ollama, MLflow, MCP, jsonschema,
+                  import-linter, mypy, Ruff, Pytest""",
                 "status": "Private - Implementing"
+            },
+            "agent-config": {
+                "about" : """One source of truth for my AI coding agents: skills, rules, agents, learnings
+                  & MCP servers authored once and projected into Claude Code, Codex, Augment, GitHub Copilot
+                  & Cursor, with drift audits, auto-reconcile & a local CI merge gate""",
+                "repo": "https://github.com/miki-reynolds/agent-config/",
+                "tech": "Python, Bash, Make, Node.js, MCP, git hooks, launchd, Pytest",
+                "status": "Private - Daily driver"
             }
         }
     
